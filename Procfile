@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run visualisation_of_gradient_descent.py
